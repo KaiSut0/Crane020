@@ -2,9 +2,9 @@
 using System.Drawing;
 using Grasshopper.Kernel;
 
-namespace Crane_1_0
+namespace Crane
 {
-    public class Crane_1_0Info : GH_AssemblyInfo
+    public class CraneInfo : GH_AssemblyInfo
     {
         public override string Name
         {
