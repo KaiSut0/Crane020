@@ -33,7 +33,7 @@ namespace Crane
         protected override void RegisterInputParams(GH_Component.GH_InputParamManager pManager)
         {
             pManager.AddGenericParameter("CMesh", "CMesh", "CMesh", GH_ParamAccess.item);
-            pManager.AddIntegerParameter("Indexies of Point", "Indexies of Point", "Input list of index of point", GH_ParamAccess.tree);
+            pManager.AddIntegerParameter("Indexies of Point", "Indexies of Point", "Input list of index of point", GH_ParamAccess.list);
             pManager.AddNumberParameter("Strength", "S", "Strength", GH_ParamAccess.item);
 
             pManager[2].Optional = true;
