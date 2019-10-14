@@ -23,7 +23,7 @@ namespace Crane
         public DeconstructCMesh()
           : base("DeconstructCMesh", "DeconstructCMesh",
               "Deconstruct CMesh into Mesh and information",
-              "Crane", "Outputs")
+              "Crane", "Previews")
         {
         }
 

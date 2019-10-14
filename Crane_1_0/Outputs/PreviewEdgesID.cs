@@ -15,7 +15,7 @@ namespace Crane
         public PreviewEdgesID()
           : base("EdgeCentor", "EdgeCentor",
               "EdgeCentor",
-              "Crane", "Outputs")
+              "Crane", "Previews")
         {
         }
 

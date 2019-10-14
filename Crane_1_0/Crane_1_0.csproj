@@ -72,14 +72,12 @@
     <Compile Include="Constraints\AnchorToGround.cs" />
     <Compile Include="Constraints\Developable.cs" />
     <Compile Include="Constraints\EqualLength.cs" />
-    <Compile Include="Constraints\EqualSectorAngle.cs" />
     <Compile Include="Constraints\FlatFoldable.cs" />
     <Compile Include="Constraints\GlueVertices.cs" />
     <Compile Include="Constraints\OnCurve.cs" />
     <Compile Include="Constraints\OnPlane.cs" />
     <Compile Include="Constraints\OnSurface.cs" />
     <Compile Include="Constraints\SetFoldAngles.cs" />
-    <Compile Include="Constraints\UpperFoldAngle.cs" />
     <Compile Include="CraneLibrary\CraneLibrary.cs" />
     <Compile Include="Inputs\CMesh.cs" />
     <Compile Include="Inputs\CMesh_EdgeInfo.cs" />

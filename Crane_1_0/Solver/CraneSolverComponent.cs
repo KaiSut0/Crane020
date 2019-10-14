@@ -118,6 +118,7 @@ namespace Crane
                 DA.GetData(3, ref rigidity);
             }
 
+            FoldSpeed /= 50;
             On = SolverOn;
             Sim = RigidModeOn;
 
